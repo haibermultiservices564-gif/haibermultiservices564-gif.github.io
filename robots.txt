@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://haibermultiservices564-gif.github.io/touchunique-site/sitemap.xml
+Sitemap: https://haibermultiservices564-gif.github.io/touchunique-app/sitemap.xml
